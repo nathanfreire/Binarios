@@ -7,7 +7,7 @@
     scanf("%f",&km_inicial);
     printf("Digite seu km final:\n");
     scanf("%f",&km_final);
-    printf("Digite seu tempo final:\n");
+    printf("Digite seu tempo inicial:\n");
     scanf("%f",&tempo_inicial);
     printf("Digite seu tempo final:\n");
     scanf("%f",&tempo_final);
