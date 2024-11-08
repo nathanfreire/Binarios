@@ -2,11 +2,10 @@
 #include "../lib/att.h"
 
 int main(){
-    int letra;
-    
-
-    printf("Digite a primeira letra do seu gênero(f ou m):\n");
-    scanf("%d",letra);
+  char letra;
+     printf("Digite a primeira letra do seu gênero(F ou M):\n");
+  scanf("%c",&letra);
+  genero(letra);
 
     return 0;
 }
