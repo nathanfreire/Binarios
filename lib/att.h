@@ -77,5 +77,5 @@ void reajuste(float salario){
         valor_aumento = salario * (5.0 / 100);
         novo_salario = salario + valor_aumento;
         printf("O salário antigo é %f e foi reajustado em 5%. O valor de aumento é %f\n",salario,valor_aumento,novo_salario);
-}
+    }
 }
